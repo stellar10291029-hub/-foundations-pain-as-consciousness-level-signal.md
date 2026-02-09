@@ -150,3 +150,8 @@ under a CC BY 4.0 license:
 
 https://zenodo.org/records/17852480
 
+Correspondence: pkf.eunyoung@gmail.com
+This document serves as a canonical reference.
+Correspondence is limited to scholarly clarification or citation-related matters.
+
+
